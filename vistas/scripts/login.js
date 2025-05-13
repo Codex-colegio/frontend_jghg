@@ -10,8 +10,8 @@ document.getElementById("frmAcceso").addEventListener("submit", function(e) {
     // Añadir un retraso de 5 segundos
     setTimeout(function() {
         submitButton.disabled = false; // Habilitar nuevamente el botón después de 5 segundos
-    }, 5000);
-    
+    }, 7000);
+
     const logina = document.getElementById("logina").value.trim();
     const clavea = document.getElementById("clavea").value.trim();
 
