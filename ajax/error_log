@@ -1,0 +1,994 @@
+[23-Apr-2024 13:03:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:03:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:03:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:03:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:04:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:05:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:05:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:05:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:05:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:05:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:05:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:05:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:05:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:05:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:07:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'scorpast_admin'@'localhost' to database 'scorpast_codex' in /home/scorpast/public_html/config/Conexion.php:4
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(4): mysqli->__construct()
+#1 /home/scorpast/public_html/modelos/Usuario.php(3): require('/home/scorpast/...')
+#2 /home/scorpast/public_html/ajax/usuario.php(3): require_once('/home/scorpast/...')
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 4
+[23-Apr-2024 13:18:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17
+[23-Apr-2024 13:18:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17
+[23-Apr-2024 13:18:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17
+[23-Apr-2024 13:19:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17
+[23-Apr-2024 13:20:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17
+[23-Apr-2024 21:37:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17
+[23-Apr-2024 21:37:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17
+[23-Apr-2024 21:37:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17
+[23-Apr-2024 21:37:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17
+[23-Apr-2024 21:37:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17
+[23-Apr-2024 21:39:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17
+[23-Apr-2024 21:39:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17
+[25-Apr-2024 23:34:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17
+[26-Apr-2024 00:20:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17
+[26-Apr-2024 00:20:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17
+[26-Apr-2024 00:40:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17
+[26-Apr-2024 00:40:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'condicion' in 'field list' in /home/scorpast/public_html/config/Conexion.php:17
+Stack trace:
+#0 /home/scorpast/public_html/config/Conexion.php(17): mysqli->query()
+#1 /home/scorpast/public_html/modelos/Alumnos.php(35): ejecutarConsulta()
+#2 /home/scorpast/public_html/ajax/alumnos.php(45): Alumnos->desactivar()
+#3 {main}
+  thrown in /home/scorpast/public_html/config/Conexion.php on line 17

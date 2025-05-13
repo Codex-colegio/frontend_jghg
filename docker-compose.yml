@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  sistema_web_matricula:
+    build: .
+    container_name: sistema_web_matricula
+    ports:
+      - "8000:80"
+    volumes:
+      - .:/var/www/html
+    depends_on:
+      - mysql
+
+  mysql:
+    image: mysql:8.0
+    container_name: mysql_s_w_m
+    restart: always
+    environment:
+      MYSQL_DATABASE: matricula
+      MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: phpmyadmin_swm
+    environment:
+      PMA_HOST: mysql_s_w_m
+      MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+    ports:
+      - "8081:80"
+    depends_on:
+      - mysql
+
+volumes:
+  mysql_data:
