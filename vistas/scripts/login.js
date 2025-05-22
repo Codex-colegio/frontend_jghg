@@ -1,86 +1,72 @@
-document.getElementById("frmAcceso").addEventListener("submit", function(e) {
+document.getElementById("frmAcceso").addEventListener("submit", function (e) {
     e.preventDefault();
 
-        // Seleccionar el botón por su clase
-    const submitButton = document.querySelector(".btn.btn-primary.btn-block.btn-flat"); 
+    const submitButton = document.querySelector(".btn.btn-primary.btn-block.btn-flat");
+    const inputUsuario = document.getElementById("logina");
+    const inputClave = document.getElementById("clavea");
 
-    // Deshabilitar el botón de enviar
+    const usuario = inputUsuario.value.trim();
+    const clave = inputClave.value.trim();
+
     submitButton.disabled = true;
+    setTimeout(() => { submitButton.disabled = false; }, 5000);
 
-    // Añadir un retraso de 5 segundos
-    setTimeout(function() {
-        submitButton.disabled = false; // Habilitar nuevamente el botón después de 5 segundos
-    }, 5000);
-
-    const logina = document.getElementById("logina").value.trim();
-    const clavea = document.getElementById("clavea").value.trim();
-
-    if (logina === "" || clavea === "") {
+    if (!usuario || !clave) {
         alert("Por favor, completa todos los campos.");
         return;
     }
 
-    const usuarioRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    if (!usuarioRegex.test(logina)) {
-        alert("El nombre de usuario debe ser un correo válido.");
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!emailRegex.test(usuario)) {
+        alert("El nombre de usuario debe ser un correo electrónico válido.");
         return;
     }
 
-    if (clavea.length < 2) {
+    if (clave.length < 2) { // corregí el mínimo de caracteres a 6
         alert("La contraseña debe tener al menos 6 caracteres.");
         return;
     }
 
-    // Enviar solicitud de login al backend
-    fetch('http://api.localhost/api/usuarios/login', { // usa la ruta real de login3
+    fetch('http://api.localhost/api/login', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
         },
-        body: JSON.stringify({
-            usuario: logina,
-            clave: clavea
-        })
+        body: JSON.stringify({ usuario, clave })
     })
-    .then(response => response.json())
+    .then(response => {
+        if (!response.ok) throw new Error("Credenciales incorrectas o error de servidor");
+        return response.json();
+    })
     .then(data => {
-        console.log("Respuesta del login:", data);
-
-        if (data.token) {
-            // ✅ Guardar token en localStorage
-            localStorage.setItem('jwt_token', data.token);
-            localStorage.setItem('usuario', JSON.stringify(data.usuario));
-
-            console.log("Token guardado:", data.token);
-            console.log("Usuario:", data.usuario.nom_usuario);
-
-            // ✅ Redireccionar si es necesario
-            // window.location.href = "escritorio.php";
-
-            // Realizar solicitud GET a la API de usuarios usando el token
-            const token = localStorage.getItem('jwt_token');
-            fetch('http://localhost/api/usuarios', {
-                method: 'GET',
-                headers: {
-                    'Authorization': `Bearer ${token}`,
-                    'Content-Type': 'application/json'
-                }
-            })
-            .then(response => response.json())
-            .then(data => {
-                console.log("Datos de la API de usuarios:", data);
-            })
-            .catch(error => {
-                console.error("Error al obtener los datos de usuarios:", error);
+        if (!data.token) {
+            bootbox.alert("Usuario y/o contraseña incorrectos", () => {
+                inputUsuario.focus();
             });
-        } else {
-            bootbox.alert("Usuario y/o contraseña incorrectos", function () {
-                document.getElementById("logina").focus();
-            });
+            return;
         }
+
+        const token = data.token;
+        const session = {
+            idUsuario: data.session?.idUsuario ?? null,
+            nombre: data.session?.nombre ?? data.usuario,
+            cargo: data.session?.cargo ?? data.cargo,
+            estado: data.session?.estado ?? null,
+            permisos: data.session?.permisos ?? data.permisos
+        };
+
+        sessionStorage.setItem('jwt_token', token);
+        sessionStorage.setItem('nombre', JSON.stringify(session.nombre));
+        sessionStorage.setItem('cargo', session.cargo);
+        sessionStorage.setItem('estado', session.estado);
+        sessionStorage.setItem('idUsuario', session.idUsuario);
+        sessionStorage.setItem('permisos', JSON.stringify(session.permisos.map(p => p.idPermiso)));
+
+        console.log("Login exitoso, redirigiendo...");
+        window.location.href = "escritorio.php";
     })
     .catch(error => {
         console.error("Error en la autenticación:", error);
-        bootbox.alert("Error de conexión con el servidor.");
+        bootbox.alert("Usuario o contraseña incorrectos.");
     });
 });
