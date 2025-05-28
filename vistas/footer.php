@@ -26,5 +26,7 @@
     <script src="../public/js/bootbox.min.js"></script> 
     <script src="../public/js/bootstrap-select.min.js"></script>
 
+    <!-- Carga de variables de entorno (env.js) -->
+    <script src="../public/js/env.js"></script>
 </body>
 </html>
